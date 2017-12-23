@@ -1,12 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Hosting;
+using CheeseMVC;
 using Microsoft.AspNetCore;
+using Microsoft.AspNetCore.Hosting;
 
-namespace CheeseMVC
+namespace AspNetCoreDotNetCore2App
 {
     public class Program
     {
